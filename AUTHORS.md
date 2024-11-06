@@ -1,3 +1,4 @@
 # AUTHORS
 
-* Cristina Simón Hernández
+* Cristina Simón Hernández <csimher426@g.educaand.es>
+* John Doe
